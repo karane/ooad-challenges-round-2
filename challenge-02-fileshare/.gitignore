@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+.DS_Store
+
+# file sharing default folder
+fileshare-data/
